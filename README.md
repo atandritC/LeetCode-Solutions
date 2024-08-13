@@ -1,2 +1,3 @@
-# LeetCode-Solutions
-This repository serves as a collection of my solutions to various LeetCode problems.
+# LeetCode Solutions
+
+Welcome to the LeetCode Solutions repository! This repository contains solutions to various LeetCode problems that I have solved.
