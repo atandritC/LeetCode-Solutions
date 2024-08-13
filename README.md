@@ -8,4 +8,5 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/atandritC/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
