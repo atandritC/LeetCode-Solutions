@@ -9,6 +9,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | ------- |
 | [0007-reverse-integer](https://github.com/atandritC/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/atandritC/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [1013-fibonacci-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -17,6 +18,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/atandritC/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/atandritC/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
@@ -54,4 +56,12 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/atandritC/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/atandritC/LeetCode-Solutions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/atandritC/LeetCode-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
