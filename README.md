@@ -35,6 +35,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 ## Array
 |  |
 | ------- |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/atandritC/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/atandritC/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
