@@ -40,6 +40,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/atandritC/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/atandritC/LeetCode-Solutions/tree/master/0078-subsets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/atandritC/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/atandritC/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -79,4 +80,8 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | ------- |
 | [0078-subsets](https://github.com/atandritC/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/atandritC/LeetCode-Solutions/tree/master/0089-gray-code) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/atandritC/LeetCode-Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
