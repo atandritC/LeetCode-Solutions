@@ -12,6 +12,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0029-divide-two-integers](https://github.com/atandritC/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/atandritC/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/atandritC/LeetCode-Solutions/tree/master/0089-gray-code) |
+| [0372-super-pow](https://github.com/atandritC/LeetCode-Solutions/tree/master/0372-super-pow) |
 | [1013-fibonacci-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/atandritC/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Two Pointers
@@ -89,4 +90,8 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/atandritC/LeetCode-Solutions/tree/master/0001-two-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/atandritC/LeetCode-Solutions/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
