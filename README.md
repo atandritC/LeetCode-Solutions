@@ -56,6 +56,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0001-two-sum](https://github.com/atandritC/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atandritC/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0078-subsets](https://github.com/atandritC/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/atandritC/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/atandritC/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/atandritC/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -89,6 +90,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0067-add-binary](https://github.com/atandritC/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/atandritC/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/atandritC/LeetCode-Solutions/tree/master/0089-gray-code) |
+| [0136-single-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
