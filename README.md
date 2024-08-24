@@ -28,6 +28,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/atandritC/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/atandritC/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/atandritC/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/atandritC/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
