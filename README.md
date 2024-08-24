@@ -17,6 +17,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [1013-fibonacci-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/atandritC/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/atandritC/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/atandritC/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +43,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0050-powx-n](https://github.com/atandritC/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/atandritC/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/atandritC/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
