@@ -11,6 +11,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0009-palindrome-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/atandritC/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/atandritC/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/atandritC/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/atandritC/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/atandritC/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0372-super-pow](https://github.com/atandritC/LeetCode-Solutions/tree/master/0372-super-pow) |
@@ -43,6 +44,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/atandritC/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/atandritC/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [1013-fibonacci-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/atandritC/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/atandritC/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
