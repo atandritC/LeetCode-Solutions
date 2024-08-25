@@ -91,6 +91,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0078-subsets](https://github.com/atandritC/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/atandritC/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/0136-single-number) |
+| [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/atandritC/LeetCode-Solutions/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Simulation
 |  |
 | ------- |
