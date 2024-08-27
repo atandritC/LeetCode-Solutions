@@ -13,6 +13,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0050-powx-n](https://github.com/atandritC/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/atandritC/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/atandritC/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/atandritC/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/atandritC/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0372-super-pow](https://github.com/atandritC/LeetCode-Solutions/tree/master/0372-super-pow) |
 | [1013-fibonacci-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
@@ -39,6 +40,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/atandritC/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/atandritC/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -51,6 +53,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/atandritC/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
