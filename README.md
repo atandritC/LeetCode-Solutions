@@ -66,6 +66,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0090-subsets-ii](https://github.com/atandritC/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/atandritC/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0216-combination-sum-iii](https://github.com/atandritC/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/atandritC/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/atandritC/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/atandritC/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -115,6 +116,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0078-subsets](https://github.com/atandritC/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/atandritC/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/atandritC/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/atandritC/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 ## Hash Table
 |  |
 | ------- |
