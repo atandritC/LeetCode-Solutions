@@ -64,6 +64,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | ------- |
 | [0001-two-sum](https://github.com/atandritC/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atandritC/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/atandritC/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/atandritC/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/atandritC/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/atandritC/LeetCode-Solutions/tree/master/0051-n-queens) |
@@ -118,6 +119,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/atandritC/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/atandritC/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/atandritC/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/atandritC/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/atandritC/LeetCode-Solutions/tree/master/0051-n-queens) |
@@ -133,6 +135,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | ------- |
 | [0001-two-sum](https://github.com/atandritC/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/atandritC/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -144,5 +147,6 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/atandritC/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/atandritC/LeetCode-Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
