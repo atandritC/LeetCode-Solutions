@@ -37,6 +37,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0079-word-search](https://github.com/atandritC/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/atandritC/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/atandritC/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0394-decode-string](https://github.com/atandritC/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/atandritC/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/atandritC/LeetCode-Solutions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 ## Dynamic Programming
@@ -51,6 +52,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | ------- |
 | [0050-powx-n](https://github.com/atandritC/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/atandritC/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
+| [0394-decode-string](https://github.com/atandritC/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/atandritC/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/atandritC/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
@@ -149,4 +151,8 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | ------- |
 | [0037-sudoku-solver](https://github.com/atandritC/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/atandritC/LeetCode-Solutions/tree/master/0079-word-search) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/atandritC/LeetCode-Solutions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
