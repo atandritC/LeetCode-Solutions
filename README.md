@@ -15,6 +15,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0067-add-binary](https://github.com/atandritC/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/atandritC/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/atandritC/LeetCode-Solutions/tree/master/0089-gray-code) |
+| [0282-expression-add-operators](https://github.com/atandritC/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0372-super-pow](https://github.com/atandritC/LeetCode-Solutions/tree/master/0372-super-pow) |
 | [1013-fibonacci-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/atandritC/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -37,6 +38,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0079-word-search](https://github.com/atandritC/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/atandritC/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/atandritC/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0282-expression-add-operators](https://github.com/atandritC/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0394-decode-string](https://github.com/atandritC/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/atandritC/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/atandritC/LeetCode-Solutions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
@@ -132,6 +134,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0090-subsets-ii](https://github.com/atandritC/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/atandritC/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/atandritC/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/atandritC/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 ## Hash Table
 |  |
 | ------- |
