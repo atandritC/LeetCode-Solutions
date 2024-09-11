@@ -26,6 +26,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atandritC/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/atandritC/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/atandritC/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/atandritC/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/atandritC/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -48,6 +49,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/atandritC/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/atandritC/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/atandritC/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/atandritC/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/atandritC/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -76,6 +78,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0037-sudoku-solver](https://github.com/atandritC/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/atandritC/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/atandritC/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/atandritC/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/atandritC/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/atandritC/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/atandritC/LeetCode-Solutions/tree/master/0078-subsets) |
@@ -172,9 +175,14 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/atandritC/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/atandritC/LeetCode-Solutions/tree/master/0394-decode-string) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/atandritC/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/atandritC/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
