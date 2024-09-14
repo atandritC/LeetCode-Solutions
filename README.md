@@ -98,6 +98,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/atandritC/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/atandritC/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/atandritC/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/atandritC/LeetCode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Binary Search
 |  |
 | ------- |
@@ -135,6 +136,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0136-single-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/atandritC/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/atandritC/LeetCode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/atandritC/LeetCode-Solutions/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Simulation
 |  |
@@ -194,4 +196,8 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/atandritC/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/atandritC/LeetCode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
