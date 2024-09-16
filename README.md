@@ -28,6 +28,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atandritC/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/atandritC/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/atandritC/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/atandritC/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/atandritC/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/atandritC/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -82,6 +83,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0042-trapping-rain-water](https://github.com/atandritC/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/atandritC/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/atandritC/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/atandritC/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/atandritC/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/atandritC/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/atandritC/LeetCode-Solutions/tree/master/0090-subsets-ii) |
@@ -117,6 +119,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/atandritC/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/atandritC/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/atandritC/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
