@@ -16,6 +16,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0070-climbing-stairs](https://github.com/atandritC/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/atandritC/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/atandritC/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0241-different-ways-to-add-parentheses](https://github.com/atandritC/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/atandritC/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0372-super-pow](https://github.com/atandritC/LeetCode-Solutions/tree/master/0372-super-pow) |
@@ -45,6 +46,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0125-valid-palindrome](https://github.com/atandritC/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/atandritC/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/atandritC/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/atandritC/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0394-decode-string](https://github.com/atandritC/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/atandritC/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -59,12 +61,14 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/atandritC/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/atandritC/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/atandritC/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0241-different-ways-to-add-parentheses](https://github.com/atandritC/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/atandritC/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/atandritC/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
+| [0241-different-ways-to-add-parentheses](https://github.com/atandritC/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/atandritC/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/atandritC/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -73,6 +77,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/atandritC/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/atandritC/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
