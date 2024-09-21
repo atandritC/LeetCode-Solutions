@@ -49,6 +49,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0241-different-ways-to-add-parentheses](https://github.com/atandritC/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/atandritC/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0394-decode-string](https://github.com/atandritC/LeetCode-Solutions/tree/master/0394-decode-string) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/atandritC/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/atandritC/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/atandritC/LeetCode-Solutions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 ## Dynamic Programming
@@ -183,6 +184,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0037-sudoku-solver](https://github.com/atandritC/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/atandritC/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/atandritC/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -207,6 +209,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/atandritC/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/atandritC/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Monotonic Stack
 |  |
 | ------- |
