@@ -54,6 +54,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0920-uncommon-words-from-two-sentences](https://github.com/atandritC/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/atandritC/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/atandritC/LeetCode-Solutions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [3541-report-spam-message](https://github.com/atandritC/LeetCode-Solutions/tree/master/3541-report-spam-message) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -113,6 +114,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [1966-frequency-of-the-most-frequent-element](https://github.com/atandritC/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/atandritC/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/atandritC/LeetCode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3541-report-spam-message](https://github.com/atandritC/LeetCode-Solutions/tree/master/3541-report-spam-message) |
 ## Binary Search
 |  |
 | ------- |
@@ -188,6 +190,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0169-majority-element](https://github.com/atandritC/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/atandritC/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [3541-report-spam-message](https://github.com/atandritC/LeetCode-Solutions/tree/master/3541-report-spam-message) |
 ## Divide and Conquer
 |  |
 | ------- |
