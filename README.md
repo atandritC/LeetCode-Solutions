@@ -9,6 +9,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | ------- |
 | [0007-reverse-integer](https://github.com/atandritC/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/atandritC/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/atandritC/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/atandritC/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/atandritC/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
@@ -39,6 +40,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/atandritC/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/atandritC/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/atandritC/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/atandritC/LeetCode-Solutions/tree/master/0067-add-binary) |
@@ -180,6 +182,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/atandritC/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/atandritC/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/atandritC/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/atandritC/LeetCode-Solutions/tree/master/0169-majority-element) |
