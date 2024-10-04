@@ -67,6 +67,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/atandritC/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/atandritC/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/atandritC/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0410-split-array-largest-sum](https://github.com/atandritC/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -114,6 +115,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0216-combination-sum-iii](https://github.com/atandritC/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/atandritC/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/atandritC/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/atandritC/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1435-xor-queries-of-a-subarray](https://github.com/atandritC/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/atandritC/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -132,6 +134,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/atandritC/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/atandritC/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/atandritC/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/atandritC/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/atandritC/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Greedy
@@ -139,6 +142,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/atandritC/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/0179-largest-number) |
+| [0410-split-array-largest-sum](https://github.com/atandritC/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/atandritC/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
@@ -155,6 +159,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/atandritC/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1435-xor-queries-of-a-subarray](https://github.com/atandritC/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/atandritC/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
