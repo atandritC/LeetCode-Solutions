@@ -117,6 +117,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0283-move-zeroes](https://github.com/atandritC/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/atandritC/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/atandritC/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/atandritC/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1435-xor-queries-of-a-subarray](https://github.com/atandritC/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/atandritC/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/atandritC/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -136,6 +137,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0268-missing-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/atandritC/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/atandritC/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/atandritC/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/atandritC/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
