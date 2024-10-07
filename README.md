@@ -119,6 +119,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0907-koko-eating-bananas](https://github.com/atandritC/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/atandritC/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1435-xor-queries-of-a-subarray](https://github.com/atandritC/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1646-kth-missing-positive-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/atandritC/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/atandritC/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/atandritC/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -138,6 +139,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0410-split-array-largest-sum](https://github.com/atandritC/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/atandritC/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/atandritC/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1646-kth-missing-positive-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/atandritC/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
