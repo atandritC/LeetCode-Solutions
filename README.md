@@ -126,6 +126,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [1966-frequency-of-the-most-frequent-element](https://github.com/atandritC/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/atandritC/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/atandritC/LeetCode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3510-maximize-the-total-height-of-unique-towers](https://github.com/atandritC/LeetCode-Solutions/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3541-report-spam-message](https://github.com/atandritC/LeetCode-Solutions/tree/master/3541-report-spam-message) |
 ## Binary Search
 |  |
@@ -150,6 +151,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0179-largest-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/atandritC/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/atandritC/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3510-maximize-the-total-height-of-unique-towers](https://github.com/atandritC/LeetCode-Solutions/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -162,6 +164,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0179-largest-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/atandritC/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3510-maximize-the-total-height-of-unique-towers](https://github.com/atandritC/LeetCode-Solutions/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 ## Prefix Sum
 |  |
 | ------- |
