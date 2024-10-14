@@ -100,6 +100,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0042-trapping-rain-water](https://github.com/atandritC/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/atandritC/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/atandritC/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/atandritC/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/atandritC/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/atandritC/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/atandritC/LeetCode-Solutions/tree/master/0079-word-search) |
@@ -136,6 +137,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0033-search-in-rotated-sorted-array](https://github.com/atandritC/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/atandritC/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/atandritC/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/atandritC/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/atandritC/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/atandritC/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/atandritC/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -235,6 +237,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/atandritC/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0074-search-a-2d-matrix](https://github.com/atandritC/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/atandritC/LeetCode-Solutions/tree/master/0079-word-search) |
 ## Stack
 |  |
