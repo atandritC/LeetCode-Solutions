@@ -115,6 +115,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0179-largest-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/atandritC/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/atandritC/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/atandritC/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/atandritC/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/atandritC/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
@@ -141,6 +142,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/atandritC/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/atandritC/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/atandritC/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/atandritC/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/atandritC/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/atandritC/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -228,6 +230,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/atandritC/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/atandritC/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/atandritC/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/atandritC/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0372-super-pow](https://github.com/atandritC/LeetCode-Solutions/tree/master/0372-super-pow) |
 ## Queue
 |  |
@@ -239,6 +242,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0037-sudoku-solver](https://github.com/atandritC/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/atandritC/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/atandritC/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0240-search-a-2d-matrix-ii](https://github.com/atandritC/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Stack
 |  |
 | ------- |
