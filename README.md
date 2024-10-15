@@ -127,6 +127,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/atandritC/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/atandritC/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/atandritC/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2047-find-a-peak-element-ii](https://github.com/atandritC/LeetCode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/atandritC/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/atandritC/LeetCode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/atandritC/LeetCode-Solutions/tree/master/3510-maximize-the-total-height-of-unique-towers) |
@@ -150,6 +151,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/atandritC/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1646-kth-missing-positive-number](https://github.com/atandritC/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/atandritC/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2047-find-a-peak-element-ii](https://github.com/atandritC/LeetCode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -243,6 +245,7 @@ Welcome to the LeetCode Solutions repository! This repository contains solutions
 | [0074-search-a-2d-matrix](https://github.com/atandritC/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/atandritC/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/atandritC/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/atandritC/LeetCode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 ## Stack
 |  |
 | ------- |
